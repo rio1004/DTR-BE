@@ -17,4 +17,7 @@ mongoose.connect('mongodb+srv://golimrio14:dE9xchjMWFRnBBbK@book-cluster.fbcbry2
 }).catch(e=>{
     console.log(e)
 })
-app.listen(4000);
+const port = process.env.PORT || 4000;
+app.listen(port, () => {
+    console.log(`Server is running on port ${port}`);
+});
