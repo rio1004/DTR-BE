@@ -1,15 +1,15 @@
 const exp = require("express");
 const router = exp.Router();
 const DTR = require("../../models/DTR");
+const Task = require("../../models/DTR");
 
-router.get("/", (req, res) => {
-  DTR.find()
-    .then((result) => {
-      res.json(result);
-    })
-    .catch((err) => {
-      res.json({ message: err });
-    });
+router.get("/", async (req, res) => {
+  try {
+    const DTRs = await Task.find({ user: req.body.userId });
+    res.status(200).json({ data: DTRs });
+  } catch (error) {
+    res.json({ message: err });
+  }
 });
 
 router.get("/:id", (req, res) => {
@@ -25,9 +25,11 @@ router.get("/:id", (req, res) => {
 });
 
 router.post("/", (req, res) => {
+  const { userId, desc, status } = req.body;
   const dtr = new DTR({
-    description: req.body.description,
-    status: req.body.status,
+    description: desc,
+    status: status,
+    user: userId,
   });
   dtr
     .save()

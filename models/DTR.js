@@ -9,6 +9,10 @@ const DTRSchema = mong.Schema({
     type: String,
     required: true,
   },
+  user: {
+    type: mong.Schema.Types.ObjectId,
+    ref: "User",
+  },
 });
 
-module.exports = mong.model('DTR', DTRSchema);
+module.exports = mong.model("DTR", DTRSchema);
