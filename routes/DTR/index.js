@@ -2,8 +2,9 @@ const exp = require("express");
 const router = exp.Router();
 const DTR = require("../../models/DTR");
 const Task = require("../../models/DTR");
+const { authenTicateUser } = require("../../middleware/auth");
 
-router.get("/", async (req, res) => {
+router.get("/", authenTicateUser, async (req, res) => {
   try {
     const DTRs = await Task.find({ user: req.body.userId });
     res.status(200).json({ data: DTRs });
