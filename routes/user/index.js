@@ -18,11 +18,16 @@ router.post("/register", async (req, res) => {
     newUser.save();
     res.status(201).json({
       message: "Registered kana, Pakyu ka pa",
+      status: 201,
     });
   } catch (error) {
     res
       .status(500)
-      .json({ message: "Ginagawa mo? Failed ung Registration mo!", error });
+      .json({
+        message: "Ginagawa mo? Failed ung Registration mo!",
+        error,
+        status: 500,
+      });
   }
 });
 
@@ -34,24 +39,27 @@ router.post("/login", async (req, res) => {
     if (!user) {
       return res
         .status(404)
-        .json({ message: "Di kapa Register, Excited kaba?" });
+        .json({ message: "Di kapa Register, Excited kaba?", status: 404 });
     }
     const isMatch = await bcrypt.compare(password, user.password);
     if (!isMatch) {
-      return res
-        .status(401)
-        .json({ message: "Mali password mo, parang di ka nag grade 2" });
+      return res.status(401).json({
+        message: "Mali password mo, parang di ka nag grade 2",
+        status: 401,
+      });
     }
     const token = await generateJWT(user);
     res.status(200).json({
       token: token,
-      id:user._id, 
+      id: user._id,
       data: {
-        fullName: user.firstName + " " + user.lastName
-      }
+        fullName: user.firstName + " " + user.lastName,
+      },
     });
   } catch (error) {
-    res.status(500).json({ message: "Wait lang nag Failed, try mo uli!" });
+    res
+      .status(500)
+      .json({ message: "Wait lang nag Failed, try mo uli!", status: 500 });
   }
 });
 
