@@ -15,7 +15,6 @@ router.post("/register", async (req, res) => {
       firstName,
       lastName,
     });
-    console.log(newUser);
     newUser.save();
     res.status(201).json({
       message: "Registered kana, Pakyu ka pa",
@@ -46,7 +45,10 @@ router.post("/login", async (req, res) => {
     const token = await generateJWT(user);
     res.status(200).json({
       token: token,
-      id:user._id
+      id:user._id, 
+      data: {
+        fullName: user.firstName + " " + user.lastName
+      }
     });
   } catch (error) {
     res.status(500).json({ message: "Wait lang nag Failed, try mo uli!" });
