@@ -4,12 +4,14 @@ const DTR = require("../../models/DTR");
 const Task = require("../../models/DTR");
 const { authenTicateUser } = require("../../middleware/auth");
 
-router.get("/", authenTicateUser, async (req, res) => {
+router.get(`/:id`, authenTicateUser, async (req, res) => {
+
+  console.log(req.params.id)
   try {
-    const DTRs = await Task.find({ user: req.body.userId });
+    const DTRs = await Task.find({ user: req.params.id });
     res.status(200).json({ data: DTRs });
   } catch (error) {
-    res.json({ message: err });
+    res.json({ message: error });
   }
 });
 
