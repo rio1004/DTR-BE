@@ -21,13 +21,11 @@ router.post("/register", async (req, res) => {
       status: 201,
     });
   } catch (error) {
-    res
-      .status(500)
-      .json({
-        message: "Ginagawa mo? Failed ung Registration mo!",
-        error,
-        status: 500,
-      });
+    res.status(500).json({
+      message: "Ginagawa mo? Failed ung Registration mo!",
+      error,
+      status: 500,
+    });
   }
 });
 
@@ -48,7 +46,23 @@ router.post("/login", async (req, res) => {
         status: 401,
       });
     }
-    const token = await generateJWT(user);
+    let token = user.token;
+
+    if (!token) {
+      token = await generateJWT(user);
+      await User.updateOne(
+        { _id: user._id, token: { $exists: false } },
+        { $set: { token } },
+        { upsert: true }
+      );
+    } else {
+      token = await generateJWT(user);
+      await User.updateOne(
+        { _id: user._id },
+        { $set: { token } }
+      );
+    }
+    
     res.status(200).json({
       token: token,
       id: user._id,

@@ -15,8 +15,12 @@ const UserSchema = mong.Schema({
   },
   lastName: {
     type: String,
-    required: true,
+    required: false,
   },
+  token: {
+    type: String, 
+    required: true
+  }
 });
 
 module.exports = mong.model('User', UserSchema);
