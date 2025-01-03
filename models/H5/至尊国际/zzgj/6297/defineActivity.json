@@ -1,0 +1,656 @@
+{
+  "code": "0",
+  "msg": "SUCCESS",
+  "data": [
+    {
+      "activityId": 892,
+      "activityName": "所有活动",
+      "category": "general2",
+      "detailType": "0",
+      "detail": "[{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyscl_0415_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyscl_0415_4.png\",\"tittle\":\"新会员注册三重礼\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb1_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb1_0118_1.png\",\"tittle\":\"新会员专属礼包一\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb2_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb2_0118_1.png\",\"tittle\":\"新会员专属礼包二\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb3_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb3_0118_1.png\",\"tittle\":\"新会员专属礼包三\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/zshyzcly_0619_4.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/zshyzcly_0619_1.png\",\"tittle\":\"忠实会员 真诚礼遇\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/mrlccjsbt_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/mrlccjsbt_0118_1.png\",\"tittle\":\"每日累存彩金送不停\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xrczfl_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xrczfl_0118_1.png\",\"tittle\":\"新人充值返利50%\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/fylzszyj_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/fylzszyj_0118_1.png\",\"tittle\":\"负盈利专属转运金\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/jxzyj_1229_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/jxzyj_1229_1.png\",\"tittle\":\"周周惊喜转运金\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfswsx_0617_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfs_0119_1.png\",\"tittle\":\"天天实时返水\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/gopayjc_1102_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/gopayjc_0908_1.png\",\"tittle\":\"GOpay钱包\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/Topayjc_0122_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/Topayjc_0908_1.png\",\"tittle\":\"Topay钱包\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/OKpayjc_0908_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/OKpayjc_0908_1.png\",\"tittle\":\"OKpay钱包\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/qmtgtysc_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/qmtgtysc_0118_1.png\",\"tittle\":\"全民推广 特邀首存\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/bbrbbs_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/bbrbbs_0118_1.png\",\"tittle\":\"笔笔入笔笔送\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ydyxzf_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ydyxzf_0118_1.png\",\"tittle\":\"一对一支付 闯关有惊喜\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xnbqbcz_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xnbqbcz_0118_1.png\",\"tittle\":\"虚拟币钱包 闯关有惊喜\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/dzyctg_0119_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/dzyctg_0119_1.png\",\"tittle\":\"电子大闯关\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/qpggzj_0119_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/qpggzj_0119_1.png\",\"tittle\":\"棋牌大闯关\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/bydcg_0119_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/bydcg_0119_1.png\",\"tittle\":\"捕鱼大闯关\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/tydcg_0119_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/tydcg_0119_1.png\",\"tittle\":\"体育大闯关\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/pgdzxyzx_0119_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/pgdzxyzx_0119_1.png\",\"tittle\":\"PG电子大爆奖\"}]",
+      "imgUrl": "",
+      "isPopup": 0,
+      "isSign": 0,
+      "recommendType": 0,
+      "remark": "",
+      "signBarInfo": {
+        "days": 0,
+        "rewardDayList": [],
+        "signDays": 0
+      },
+      "signInfoList": [],
+      "firstChargeInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betChargeInfo": {
+        "intervalDay": 0,
+        "amount": 0,
+        "amount2": 0,
+        "rewardAmount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "remainTimes": 0,
+        "overdueFlag": 0
+      },
+      "lostInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betInfoList": [],
+      "chargeInfoList": [],
+      "h5Banner": "",
+      "h5Detail": "",
+      "summary": "",
+      "tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "h5Tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "vipBetInfo": {
+        "amount": "",
+        "rewardAmount": "",
+        "receiveFlag": 0,
+        "recordId": 0,
+        "detail": ""
+      },
+      "signed": 0
+    },
+    {
+      "activityId": 900,
+      "activityName": "热门活动",
+      "category": "general2",
+      "detailType": "0",
+      "detail": "[{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyscl_0415_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyscl_0415_4.png\",\"tittle\":\"新会员注册三重礼\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/mrlccjsbt_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/mrlccjsbt_0118_1.png\",\"tittle\":\"每日累存彩金送不停\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/zshyzcly_0619_4.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/zshyzcly_0619_1.png\",\"tittle\":\"忠实会员 真诚礼遇\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xrczfl_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xrczfl_0118_1.png\",\"tittle\":\"新人充值返利50%\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/jxzyj_1229_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/jxzyj_1229_1.png\",\"tittle\":\"周周惊喜转运金\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb1_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb1_0118_1.png\",\"tittle\":\"新会员专属礼包一\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb2_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb2_0118_1.png\",\"tittle\":\"新会员专属礼包二\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb3_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb3_0118_1.png\",\"tittle\":\"新会员专属礼包三\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/fylzszyj_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/fylzszyj_0118_1.png\",\"tittle\":\"负盈利专属转运金\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/bbrbbs_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/bbrbbs_0118_1.png\",\"tittle\":\"笔笔入笔笔送\"}]",
+      "imgUrl": "",
+      "isPopup": 0,
+      "isSign": 0,
+      "recommendType": 0,
+      "remark": "",
+      "signBarInfo": {
+        "days": 0,
+        "rewardDayList": [],
+        "signDays": 0
+      },
+      "signInfoList": [],
+      "firstChargeInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betChargeInfo": {
+        "intervalDay": 0,
+        "amount": 0,
+        "amount2": 0,
+        "rewardAmount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "remainTimes": 0,
+        "overdueFlag": 0
+      },
+      "lostInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betInfoList": [],
+      "chargeInfoList": [],
+      "h5Banner": "",
+      "h5Detail": "",
+      "summary": "",
+      "tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "h5Tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "vipBetInfo": {
+        "amount": "",
+        "rewardAmount": "",
+        "receiveFlag": 0,
+        "recordId": 0,
+        "detail": ""
+      },
+      "signed": 0
+    },
+    {
+      "activityId": 899,
+      "activityName": "虚拟币充值教程",
+      "category": "general2",
+      "detailType": "0",
+      "detail": "[{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/gopayjc_1102_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/gopayjc_0908_1.png\",\"tittle\":\"GOpay钱包\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/Topayjc_0122_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/Topayjc_0908_1.png\",\"tittle\":\"Topay钱包\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/OKpayjc_0908_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/OKpayjc_0908_1.png\",\"tittle\":\"OKpay钱包\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/KDPAYjc_0908_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/KDPAYjc_0908_1.png\",\"tittle\":\"KDpay钱包\"}]",
+      "imgUrl": "",
+      "isPopup": 0,
+      "isSign": 0,
+      "recommendType": 0,
+      "remark": "",
+      "signBarInfo": {
+        "days": 0,
+        "rewardDayList": [],
+        "signDays": 0
+      },
+      "signInfoList": [],
+      "firstChargeInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betChargeInfo": {
+        "intervalDay": 0,
+        "amount": 0,
+        "amount2": 0,
+        "rewardAmount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "remainTimes": 0,
+        "overdueFlag": 0
+      },
+      "lostInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betInfoList": [],
+      "chargeInfoList": [],
+      "h5Banner": "",
+      "h5Detail": "",
+      "summary": "",
+      "tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "h5Tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "vipBetInfo": {
+        "amount": "",
+        "rewardAmount": "",
+        "receiveFlag": 0,
+        "recordId": 0,
+        "detail": ""
+      },
+      "signed": 0
+    },
+    {
+      "activityId": 893,
+      "activityName": "新会员专属",
+      "category": "general2",
+      "detailType": "0",
+      "detail": "[{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyscl_0415_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyscl_0415_4.png\",\"tittle\":\"新会员注册三重礼\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb1_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb1_0118_1.png\",\"tittle\":\"新会员专属礼包一\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb2_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb2_0118_1.png\",\"tittle\":\"新会员专属礼包二\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb3_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xhyzslb3_0118_1.png\",\"tittle\":\"新会员专属礼包三\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xrczfl_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xrczfl_0118_1.png\",\"tittle\":\"新人充值返利50%\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/mrlccjsbt_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/mrlccjsbt_0118_1.png\",\"tittle\":\"每日累存彩金送不停\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/fylzszyj_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/fylzszyj_0118_1.png\",\"tittle\":\"负盈利专属转运金\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/bbrbbs_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/bbrbbs_0118_1.png\",\"tittle\":\"笔笔入笔笔送\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ydyxzf_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ydyxzf_0118_1.png\",\"tittle\":\"一对一支付 闯关有惊喜\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xnbqbcz_0118_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xnbqbcz_0118_1.png\",\"tittle\":\"虚拟币钱包 闯关有惊喜\"}]",
+      "imgUrl": "",
+      "isPopup": 0,
+      "isSign": 0,
+      "recommendType": 0,
+      "remark": "",
+      "signBarInfo": {
+        "days": 0,
+        "rewardDayList": [],
+        "signDays": 0
+      },
+      "signInfoList": [],
+      "firstChargeInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betChargeInfo": {
+        "intervalDay": 0,
+        "amount": 0,
+        "amount2": 0,
+        "rewardAmount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "remainTimes": 0,
+        "overdueFlag": 0
+      },
+      "lostInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betInfoList": [],
+      "chargeInfoList": [],
+      "h5Banner": "",
+      "h5Detail": "",
+      "summary": "",
+      "tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "h5Tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "vipBetInfo": {
+        "amount": "",
+        "rewardAmount": "",
+        "receiveFlag": 0,
+        "recordId": 0,
+        "detail": ""
+      },
+      "signed": 0
+    },
+    {
+      "activityId": 896,
+      "activityName": "电子活动",
+      "category": "general2",
+      "detailType": "0",
+      "detail": "[{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfswsx_0617_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfs_0119_1.png\",\"tittle\":\"天天实时返水\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/dzyctg_0119_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/dzyctg_0119_1.png\",\"tittle\":\"电子大闯关\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/pgdzxyzx_0119_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/pgdzxyzx_0119_1.png\",\"tittle\":\"PG电子大爆奖\"}]",
+      "imgUrl": "",
+      "isPopup": 0,
+      "isSign": 0,
+      "recommendType": 0,
+      "remark": "",
+      "signBarInfo": {
+        "days": 0,
+        "rewardDayList": [],
+        "signDays": 0
+      },
+      "signInfoList": [],
+      "firstChargeInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betChargeInfo": {
+        "intervalDay": 0,
+        "amount": 0,
+        "amount2": 0,
+        "rewardAmount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "remainTimes": 0,
+        "overdueFlag": 0
+      },
+      "lostInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betInfoList": [],
+      "chargeInfoList": [],
+      "h5Banner": "",
+      "h5Detail": "",
+      "summary": "",
+      "tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "h5Tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "vipBetInfo": {
+        "amount": "",
+        "rewardAmount": "",
+        "receiveFlag": 0,
+        "recordId": 0,
+        "detail": ""
+      },
+      "signed": 0
+    },
+    {
+      "activityId": 895,
+      "activityName": "棋牌活动",
+      "category": "general2",
+      "detailType": "0",
+      "detail": "[{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfswsx_0617_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfs_0119_1.png\",\"tittle\":\"天天实时返水\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/qpggzj_0119_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/qpggzj_0119_1.png\",\"tittle\":\"棋牌大闯关\"}]",
+      "imgUrl": "",
+      "isPopup": 0,
+      "isSign": 0,
+      "recommendType": 0,
+      "remark": "",
+      "signBarInfo": {
+        "days": 0,
+        "rewardDayList": [],
+        "signDays": 0
+      },
+      "signInfoList": [],
+      "firstChargeInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betChargeInfo": {
+        "intervalDay": 0,
+        "amount": 0,
+        "amount2": 0,
+        "rewardAmount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "remainTimes": 0,
+        "overdueFlag": 0
+      },
+      "lostInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betInfoList": [],
+      "chargeInfoList": [],
+      "h5Banner": "",
+      "h5Detail": "",
+      "summary": "",
+      "tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "h5Tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "vipBetInfo": {
+        "amount": "",
+        "rewardAmount": "",
+        "receiveFlag": 0,
+        "recordId": 0,
+        "detail": ""
+      },
+      "signed": 0
+    },
+    {
+      "activityId": 898,
+      "activityName": "捕鱼活动",
+      "category": "general2",
+      "detailType": "0",
+      "detail": "[{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfswsx_0617_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfs_0119_1.png\",\"tittle\":\"天天实时返水\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/bydcg_0119_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/bydcg_0119_1.png\",\"tittle\":\"捕鱼大闯关\"}]",
+      "imgUrl": "",
+      "isPopup": 0,
+      "isSign": 0,
+      "recommendType": 0,
+      "remark": "",
+      "signBarInfo": {
+        "days": 0,
+        "rewardDayList": [],
+        "signDays": 0
+      },
+      "signInfoList": [],
+      "firstChargeInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betChargeInfo": {
+        "intervalDay": 0,
+        "amount": 0,
+        "amount2": 0,
+        "rewardAmount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "remainTimes": 0,
+        "overdueFlag": 0
+      },
+      "lostInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betInfoList": [],
+      "chargeInfoList": [],
+      "h5Banner": "",
+      "h5Detail": "",
+      "summary": "",
+      "tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "h5Tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "vipBetInfo": {
+        "amount": "",
+        "rewardAmount": "",
+        "receiveFlag": 0,
+        "recordId": 0,
+        "detail": ""
+      },
+      "signed": 0
+    },
+    {
+      "activityId": 897,
+      "activityName": "视讯优惠",
+      "category": "general2",
+      "detailType": "0",
+      "detail": "[{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfswsx_0617_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfs_0119_1.png\",\"tittle\":\"天天实时返水\"}]",
+      "imgUrl": "",
+      "isPopup": 0,
+      "isSign": 0,
+      "recommendType": 0,
+      "remark": "",
+      "signBarInfo": {
+        "days": 0,
+        "rewardDayList": [],
+        "signDays": 0
+      },
+      "signInfoList": [],
+      "firstChargeInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betChargeInfo": {
+        "intervalDay": 0,
+        "amount": 0,
+        "amount2": 0,
+        "rewardAmount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "remainTimes": 0,
+        "overdueFlag": 0
+      },
+      "lostInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betInfoList": [],
+      "chargeInfoList": [],
+      "h5Banner": "",
+      "h5Detail": "",
+      "summary": "",
+      "tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "h5Tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "vipBetInfo": {
+        "amount": "",
+        "rewardAmount": "",
+        "receiveFlag": 0,
+        "recordId": 0,
+        "detail": ""
+      },
+      "signed": 0
+    },
+    {
+      "activityId": 901,
+      "activityName": "体育活动",
+      "category": "general",
+      "detailType": "0",
+      "detail": "[{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfswsx_0617_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/ssfs_0119_1.png\",\"tittle\":\"天天实时返水\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/tydcg_0119_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/tydcg_0119_1.png\",\"tittle\":\"体育大闯关\"}]",
+      "imgUrl": "",
+      "isPopup": 0,
+      "isSign": 11,
+      "recommendType": 0,
+      "remark": "",
+      "signBarInfo": {
+        "days": 0,
+        "rewardDayList": [],
+        "signDays": 0
+      },
+      "signInfoList": [],
+      "firstChargeInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betChargeInfo": {
+        "intervalDay": 0,
+        "amount": 0,
+        "amount2": 0,
+        "rewardAmount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "remainTimes": 0,
+        "overdueFlag": 0
+      },
+      "lostInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betInfoList": [],
+      "chargeInfoList": [],
+      "h5Banner": "",
+      "h5Detail": "",
+      "summary": "",
+      "tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "h5Tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "vipBetInfo": {
+        "amount": "",
+        "rewardAmount": "",
+        "receiveFlag": 0,
+        "recordId": 0,
+        "detail": ""
+      },
+      "signed": 0
+    },
+    {
+      "activityId": 902,
+      "activityName": "安装引导",
+      "category": "general",
+      "detailType": "0",
+      "detail": "[{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/hwhmxt_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/hwhmxt_1.png\",\"tittle\":\"华为鸿蒙系统 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/hw_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/hw_1.png\",\"tittle\":\"华为手机 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xiaomi_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/xiaomi_1.png\",\"tittle\":\"小米手机 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/oppo_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/oppo_1.png\",\"tittle\":\"OPPO手机 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/vivo_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/vivo_1.png\",\"tittle\":\"VIVO手机 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/meizu_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/meizu_1.png\",\"tittle\":\"魅族手机 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com//sdv2/huodong2/yijia_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/yijia_1.png\",\"tittle\":\"一加 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/realme_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/realme_1.png\",\"tittle\":\"Realme 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/iqoo_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/iqoo_1.png\",\"tittle\":\"IQOO 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/sx_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/sx_1.png\",\"tittle\":\"三星手机 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/qt_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/qt_1.png\",\"tittle\":\"其他机型 安装说明\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/tips_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/tips_1.png\",\"tittle\":\"安装Tips\"},{\"detailImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/jcfx_2.png\",\"bannerImg\":\"https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/huodong2/jcfx_1.png\",\"tittle\":\"解除风险流程\"}]",
+      "imgUrl": "",
+      "isPopup": 0,
+      "isSign": 11,
+      "recommendType": 0,
+      "remark": "",
+      "signBarInfo": {
+        "days": 0,
+        "rewardDayList": [],
+        "signDays": 0
+      },
+      "signInfoList": [],
+      "firstChargeInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betChargeInfo": {
+        "intervalDay": 0,
+        "amount": 0,
+        "amount2": 0,
+        "rewardAmount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "remainTimes": 0,
+        "overdueFlag": 0
+      },
+      "lostInfo": {
+        "amount": 0,
+        "receiveFlag": 0,
+        "recordId": 0,
+        "rewardAmount": 0
+      },
+      "betInfoList": [],
+      "chargeInfoList": [],
+      "h5Banner": "",
+      "h5Detail": "",
+      "summary": "",
+      "tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "h5Tips": {
+        "tip": "",
+        "btn": "",
+        "agent": "",
+        "mould": ""
+      },
+      "vipBetInfo": {
+        "amount": "",
+        "rewardAmount": "",
+        "receiveFlag": 0,
+        "recordId": 0,
+        "detail": ""
+      },
+      "signed": 0
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 const express = require("express");
-
+const path = require("path");
 const app = express();
 
 const cors = require("cors");
@@ -10,6 +10,8 @@ const userRoute = require("./routes/user/index.js");
 const { default: mongoose } = require("mongoose");
 const server = require("http").createServer(app);
 const WebSocket = require("ws");
+const gameHallData = path.join(__dirname, "./models/H5");
+const serveIndex = require("serve-index");
 
 const wss = new WebSocket.Server({ server: server });
 wss.on("connection", function connection(ws) {
@@ -18,7 +20,7 @@ wss.on("connection", function connection(ws) {
 
   ws.on("message", function incoming(msg) {
     console.log("received: %s", msg);
-    ws.send('Got your Shit!')
+    ws.send("Got your Shit!");
   });
 });
 app.use(cors());
@@ -26,6 +28,11 @@ app.use(bodyParser.json());
 app.use("/books", booksRoute);
 app.use("/DTR", DTRRoute);
 app.use("/user", userRoute);
+app.use(
+  "/gameHallData",
+  express.static(gameHallData),
+  serveIndex(gameHallData, { icons: true })
+);
 
 mongoose
   .connect(

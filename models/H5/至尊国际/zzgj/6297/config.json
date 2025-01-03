@@ -1,0 +1,44 @@
+{
+  "landing_page": "http://6297.vip",
+  "name": "至尊国际",
+  "main_agent_id": "5353799",
+  "open_id_name": "_zzgj",
+  "agent_id": "null",
+  "version": "17-12-2025",
+  "wss": ["wss://al9031ylgj.z93b6.com:443", "wss://ws9031ylgj.z93b6.com:443"],
+  "mchat": "https://kfsc.ty396.com/front-pages/kefu-h5/Index?channelId=149",
+  "openid_mainid": {},
+  "openid_mchat": {
+    "_zzgj": "https://kfsc.ty396.com/front-pages/kefu-h5/Index?channelId=149"
+  },
+  "isShowOrgSport": false,
+  "announcements": [
+    {
+      "h5Content": "https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/gonggao/ggmrdlb_0426_sb.png"
+    },
+    {
+      "h5Content": "https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/gonggao/gghygl_6297.vip_0626.png"
+    },
+    {
+      "h5Content": "https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/amxj/gonggao/gg_wxts_0425.png"
+    },
+    {
+      "h5Content": "https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/sdv2/gonggao/ggtjsq_6297.vip_0626.png"
+    },
+    {
+      "h5Content": "https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/hgyl/gonggao/gg_cwtz_1207_2.png"
+    },
+    {
+      "h5Content": "https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/hgyl/gonggao/gg_tjxnqbcz_1207_2.png"
+    },
+    {
+      "h5Content": "https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/hgyl/gonggao/gg_bhyhk_1207_2.png"
+    },
+    {
+      "h5Content": "https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/hgyl/gonggao/gg_txtz_1207_2.png"
+    },
+    {
+      "h5Content": "https://tencentpicture-1321100791.cos.ap-chengdu.myqcloud.com/hgyl/gonggao/gg_gbff_1207_2.png"
+    }
+  ]
+}
