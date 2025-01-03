@@ -12,7 +12,7 @@ router.get("/", (req, res) => {
     });
 });
 
-router.post("/", (req, res) => {
+router.post("/book", (req, res) => {
   const book = new Book({
     title: req.body.title,
     description: req.body.desc,
