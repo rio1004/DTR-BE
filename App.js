@@ -10,7 +10,7 @@ const userRoute = require("./routes/user/index.js");
 const { default: mongoose } = require("mongoose");
 const server = require("http").createServer(app);
 const WebSocket = require("ws");
-const gameHallData = path.join(__dirname, "./models/H5");
+const gameHallData = path.join(__dirname, "./models/gameHall");
 const serveIndex = require("serve-index");
 
 const wss = new WebSocket.Server({ server: server });
